@@ -1,4 +1,4 @@
-URL = "http://api.alquran.cloud/v1/quran/quran-uthmani "
+URL = "http://api.alquran.cloud/v1/quran/quran-uthmani"
 fatiha = document.querySelector(".fatiha")
 body = document.querySelector("body")
 a = document.querySelector("a")
