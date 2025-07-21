@@ -1,0 +1,102 @@
+body{
+  background-color: #0B1D51;
+}
+.navigation{
+  height: 800px;
+  background-image: url("nav_bg.png");
+  text-align: center;
+  color: white;
+}
+.img{
+  margin: 10px auto;
+  height: 300px;
+  width: 600px;
+  background-image: url("Quran_2.png");
+  background-size: contain;
+  border-radius: 50px;
+}
+.get1{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 80px;
+}
+button{
+  height: 40px;
+  width: 150px;
+  border: 2px solid white;
+  background-color: #0B1D51;
+  color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.home{
+  height: 800px;
+  width: 651px;
+  background-image: url("bg_3.png");
+  background-repeat: no-repeat;
+  margin: 10px auto;
+}
+.fatiha{
+  color: white;
+  text-align: center;
+  padding: 100px;
+  line-height: 4rem;
+  font-size: 30px;
+}
+.baqara{
+  height: 498px;
+  color: white;
+  text-align: right;
+  padding: 100px;
+  line-height: 4rem;
+  font-size: 30px;
+}
+#myid{
+   height: 498px;
+  color: white;
+  text-align: right;
+  padding: 100px;
+  line-height: 4rem;
+  font-size: 30px;
+}
+#myid2{
+   height: 498px;
+  color: white;
+  text-align: right;
+  padding: 100px;
+  line-height: 4rem;
+  font-size: 30px;
+}
+#myid3{
+   height: 498px;
+  color: white;
+  text-align: right;
+  padding: 100px;
+  line-height: 4rem;
+  font-size: 30px;
+}
+.part2{
+  position: relative;
+  display: inline-block;
+}
+.dropdown{
+  display: none;
+  position: absolute;
+  background-color: white;
+  color: black;
+}
+.dropdown a{
+  background-color: #123458;
+  display: block;
+  color: white;
+  height: 40px;
+  width: 150px;
+}
+.part2:hover .dropdown{
+  display: block;
+}
+/* .part2:hover .dropbtn{
+    background-color: #2980b9;
+} */
